@@ -1,0 +1,49 @@
+body, html{ 
+  height: 100%;
+  width: 100%;
+  background: url(header.jpg) no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+
+h1{
+  font-size: 3rem;
+  color: #ffffff;
+
+}
+
+hr{
+  border-color: orange;
+  border-width: 3px;
+  max-width: 70px;
+  margin:0 auto;
+  opacity: 1;
+}
+
+.btn-lg{
+  font-weight: 400;
+  border-radius: 300px;
+  text-transform: uppercase;
+}
+
+.btn{
+  background-color: orange;
+  border-color: orange;
+
+}
+
+.btn:hover{
+  background-color: red;
+  border-color: red;
+  border-width: 5px;
+}
+
+.buffer{
+  height: 14rem;
+}
+
+.buffer1{
+  height: 1rem;
+}
